@@ -1,0 +1,8 @@
+.DS_Store
+.tmp
+logs
+node_modules
+npm-debug.log
+report-violation.json
+*.log
+startup.json
