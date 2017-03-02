@@ -17,6 +17,6 @@ Steps to create a "skeleton" website using the Express Application Generator too
 	  },
 7. On Windows, use this command: SET DEBUG=express-learning-tutorial:* & npm run devstart 
    On Mac OS X or Linux, use this command: DEBUG=express-learning-tutorial:* npm run devstart
-   or simply use npm devstart
+   or simply use npm run devstart
 8. Load http://localhost:3000/ in your browser and enjoy !!!
 
